@@ -38,6 +38,7 @@ After building the models, you can find the following folder structure:
 │   ├── proposal.spthy
 ├── proofs
 │   ├── ...
+├── README.md
 ├── Makefile
 ├── TokenPassing.spthy
 └── AbstractModel.m4
